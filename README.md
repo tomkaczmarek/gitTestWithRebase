@@ -1,0 +1,2 @@
+# gitTestWithRebase
+for rebase fun
